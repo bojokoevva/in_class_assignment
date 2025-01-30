@@ -21,3 +21,9 @@ if (score >= 60) {
     console.log("Failed");
 }
 
+// Task_3
+for (let i = 10; i >= 1; i--) {
+    console.log(i);
+}
+
+
