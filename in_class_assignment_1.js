@@ -21,23 +21,3 @@ if (score >= 60) {
     console.log("Failed");
 }
 
-// Task_3
-for (let i = 10; i >= 1; i--) {
-    console.log(i);
-}
-
-// Task_4
-
-let num = 2;
-while (num <= 10) {
-    console.log(num);
-    num += 2;
-}
-
-
-// Task_5
-
-function calculateSquare(num) {
-    return num * num;
-}
-console.log(calculateSquare(4));
